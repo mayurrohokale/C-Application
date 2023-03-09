@@ -1,1 +1,1 @@
-# C-Application
+# C++ Applications
