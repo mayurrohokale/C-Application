@@ -1,5 +1,5 @@
 // class = Characteristics + Behaviours
-// class = Data + Functions
+//  class = Data + Functions
 
 #include<iostream>
 
